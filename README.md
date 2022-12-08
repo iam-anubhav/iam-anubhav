@@ -11,6 +11,9 @@
   <a href="https://www.hackerrank.com/iam_anubhav">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
+  <a href="https://www.codechef.com/users/iam_anubhav">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
   <a href="https://twitter.com/iam_anubhavv">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
