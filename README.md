@@ -36,7 +36,7 @@
 
 - :telescope: I am a tech enthusiast who loves to explore and learn latest technology.
 
-- :zap: In my free time, I solve problems on HackerRank and read books.
+- :zap: In my free time, I solve problems on CodeChef and read books.
 
 - :airplane: I love to travel and explore the amazing places on Earth :earth_asia:
 
