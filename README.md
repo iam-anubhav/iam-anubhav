@@ -40,7 +40,7 @@
 
 - :airplane: I love to travel and explore the amazing places on Earth :earth_asia:
 
-- :man_office_worker: Check out my portfolio here : [![Portfolio Badge](https://img.shields.io/badge/Anubhav_Verma-orange)](https://iam-anubhav.github.io/Portfolio/)
+- :man_office_worker: Check out my portfolio here : [![Portfolio Badge](https://img.shields.io/badge/Anubhav_Verma-orange)](https://iamanubhav.me)
 
 - :mailbox:Reach me at : [![Linkedin Badge](https://img.shields.io/badge/-Anubhav_Verma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iam-anubhav/)
 
