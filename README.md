@@ -32,7 +32,7 @@
 
 ### :man_technologist: About Me :
 
-- :desktop_computer: I’m currently in the final year of B.Tech CSE
+- :desktop_computer: I’m currently working as Software Developer.
 
 - :telescope: I am a tech enthusiast who loves to explore and learn latest technology.
 
