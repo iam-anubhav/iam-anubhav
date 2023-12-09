@@ -30,7 +30,7 @@
 
 ---
 
-### 👨‍💻ologist: About Me :
+### 👨‍💻 About Me :
 
 - :desktop_computer: I’m currently working as Software Developer.
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"width="40" height="40"/>&nbsp;
@@ -61,7 +61,7 @@
 
 ---
 
-### 🔥re: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iam-anubhav&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
