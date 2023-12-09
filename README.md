@@ -32,17 +32,17 @@
 
 ### 👨‍💻 About Me :
 
-- :desktop_computer: I’m currently working as Software Developer.
+- 🖥️ I’m currently working as Software Developer.
 
-- :telescope: I am a tech enthusiast who loves to explore and learn latest technology.
+- 🔭 I am a tech enthusiast who loves to explore and learn latest technology.
 
-- :zap: In my free time, I solve problems on CodeChef and read books.
+- ⚡ In my free time, I solve problems on CodeChef and read books.
 
-- :airplane: I love to travel and explore the amazing places on Earth :earth_asia:
+- ✈️ I love to travel and explore the amazing places on Earth :earth_asia:
 
-- :man_office_worker: Check out my portfolio here : [![Portfolio Badge](https://img.shields.io/badge/Anubhav_Verma-orange)](https://iamanubhav.me)
+- 👨‍💼 Check out my portfolio here : [![Portfolio Badge](https://img.shields.io/badge/Anubhav_Verma-orange)](https://iamanubhav.me)
 
-- :mailbox:Reach me at : [![Linkedin Badge](https://img.shields.io/badge/-Anubhav_Verma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iam-anubhav/)
+- 📫 Reach me at : [![Linkedin Badge](https://img.shields.io/badge/-Anubhav_Verma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iam-anubhav/)
 
 ---
 
